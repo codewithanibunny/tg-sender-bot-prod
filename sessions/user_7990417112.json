@@ -1,0 +1,24 @@
+{
+  "user_id": "7990417112",
+  "license_key": "",
+  "firebase_url": "https://dk-panel-default-rtdb.firebaseio.com",
+  "auth_key": "https://dk-panel-default-rtdb.firebaseio.com",
+  "selected_device_id": "fd2eaea8209ad5c3",
+  "selected_sim_slot": 1,
+  "channel_id": "-1004424227311",
+  "is_polling_active": false,
+  "last_timestamp": 0,
+  "last_updated": "2026-10-19T11:11:49.885694+00:00",
+  "stats_tokens_sent": 0,
+  "stats_real_sms": 0,
+  "stats_spoof_injects": 9,
+  "ignore_initial_messages": true,
+  "saved_firebases": [
+    {
+      "url": "https://dk-panel-default-rtdb.firebaseio.com",
+      "auth": "https://dk-panel-default-rtdb.firebaseio.com"
+    }
+  ],
+  "last_message_id": 0,
+  "monitor_start_time": 1792384535.7346258
+}

@@ -1,0 +1,100 @@
+{
+  "user_id": "8918592039",
+  "license_key": "KEY-KA8A-XQD2-B46B",
+  "firebase_url": "https://rahul1-15f7c-default-rtdb.firebaseio.com",
+  "auth_key": "https://rahul1-15f7c-default-rtdb.firebaseio.com",
+  "selected_device_id": "9084ed29e2fa2fe9",
+  "selected_sim_slot": 1,
+  "channel_id": "-1004316747122",
+  "is_polling_active": false,
+  "last_timestamp": 0,
+  "last_updated": "2026-10-24T16:07:06.306300+00:00",
+  "stats_tokens_sent": 0,
+  "stats_real_sms": 500,
+  "stats_spoof_injects": 109,
+  "ignore_initial_messages": false,
+  "saved_firebases": [
+    {
+      "url": "https://raushan-kumar-pro-default-rtdb.firebaseio.com",
+      "auth": "https://raushan-kumar-pro-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://ranjit-58640-default-rtdb.firebaseio.com",
+      "auth": "https://ranjit-58640-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://dipukumar21-9cc34-default-rtdb.firebaseio.com",
+      "auth": "https://dipukumar21-9cc34-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://jassi-952bc-default-rtdb.firebaseio.com",
+      "auth": "https://jassi-952bc-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://do-admin-v13-default-rtdb.firebaseio.com",
+      "auth": "https://do-admin-v13-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://lali-c74e2-default-rtdb.firebaseio.com",
+      "auth": "https://lali-c74e2-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://batlu-sala-default-rtdb.firebaseio.com",
+      "auth": "https://batlu-sala-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://kali-of-default-rtdb.firebaseio.com",
+      "auth": "https://kali-of-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://dhoni-ji-default-rtdb.firebaseio.com",
+      "auth": "https://dhoni-ji-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://womkomdu-default-rtdb.firebaseio.com",
+      "auth": "https://womkomdu-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://dk-panel-default-rtdb.firebaseio.com",
+      "auth": "https://dk-panel-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://durgesh-7e4c4-default-rtdb.firebaseio.com",
+      "auth": "https://durgesh-7e4c4-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://pwnkhai-default-rtdb.firebaseio.com",
+      "auth": "https://pwnkhai-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://ejeje-55f51-default-rtdb.firebaseio.com",
+      "auth": "https://ejeje-55f51-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://asli-257ef-default-rtdb.firebaseio.com",
+      "auth": "https://asli-257ef-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://anshu3-f6fbf-default-rtdb.firebaseio.com",
+      "auth": "https://anshu3-f6fbf-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://pikachu-650de-default-rtdb.firebaseio.com",
+      "auth": "https://pikachu-650de-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://rohan-3-default-rtdb.firebaseio.com",
+      "auth": "https://rohan-3-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://rahul1-15f7c-default-rtdb.firebaseio.com",
+      "auth": "https://rahul1-15f7c-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://apnanew-83721-default-rtdb.firebaseio.com",
+      "auth": "https://apnanew-83721-default-rtdb.firebaseio.com"
+    }
+  ],
+  "monitor_start_time": 1792856225.9125855,
+  "last_message_id": 1792857254866
+}

