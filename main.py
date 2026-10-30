@@ -112,14 +112,16 @@ def load_approved_users() -> set[int]:
     path = SESSIONS_DIR / "approved_users.json"
     if path.exists():
         try:
-            return set(json.loads(path.read_text(encoding="utf-8")))
-        except Exception:
-            pass
+            raw = json.loads(path.read_text(encoding="utf-8"))
+            return {int(x) for x in raw if str(x).lstrip('-').isdigit()}
+        except Exception as e:
+            logger.error(f"Error reading approved_users.json: {e}")
     return set()
 
 def save_approved_users(users: set[int]) -> None:
     path = SESSIONS_DIR / "approved_users.json"
-    path.write_text(json.dumps(list(users)), encoding="utf-8")
+    cleaned = sorted({int(x) for x in users if str(x).lstrip('-').isdigit()})
+    path.write_text(json.dumps(cleaned, indent=2), encoding="utf-8")
 
 class AuthMiddleware(BaseMiddleware):
     async def __call__(
@@ -131,7 +133,10 @@ class AuthMiddleware(BaseMiddleware):
         user = data.get("event_from_user")
         if user:
             user_id = user.id
-            if user_id not in OWNER_IDS and user_id not in load_approved_users():
+            approved = load_approved_users()
+            is_owner = (user_id in OWNER_IDS) or (str(user_id) in [str(o) for o in OWNER_IDS])
+            is_approved = (user_id in approved) or (str(user_id) in [str(u) for u in approved])
+            if not is_owner and not is_approved:
                 if isinstance(event, Message):
                     kb = InlineKeyboardMarkup(
                         inline_keyboard=[
